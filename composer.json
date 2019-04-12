@@ -1,0 +1,13 @@
+{
+    "name": "aragorn/twig",
+    "authors": [
+        {
+            "name": "Julien Boncoeur",
+            "email": "dartagnan45@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    },
+
+}
